@@ -1,0 +1,7 @@
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/offset/Consumer.java
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/partition/Consumer.java
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/partition/Producer.java
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/partition/CountryPartitioner.java
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/simple/Producer.java
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/simple/Consumer.java
+/home/brent/Downloads/KafkaAPIClient/src/main/java/com/spnotes/kafka/offset/Producer.java
